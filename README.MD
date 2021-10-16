@@ -11,11 +11,13 @@ Clone this repository.
 
 `cd ./scrapeJIT`
 
-`npm install`
+
 
 
 
 Optional:
+
+`npm install` if you want to use source code instead of .exe
 
 You can add `c:/Users/<userName>/scrapeJIT ` 
 to environment path, so you can use scrapeJIT command everywhere
@@ -40,6 +42,8 @@ to environment path, so you can use scrapeJIT command everywhere
 You need to specify scrapeJIT folder
 <img src="https://image.prntscr.com/image/YJtMUrY9RSixoOxCNprNHA.png"/>
 <img src="https://image.prntscr.com/image/EvRe1_GBQgmGyHAjOK-Ylg.png">
+
+
 If you cant find the file restart wox or click Reindex in Wox settings.
 
 ##### Using Powertoys
