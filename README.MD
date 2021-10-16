@@ -2,11 +2,18 @@
 - Add content from website to clipboard easily!
 - Create snippets easily accesible 
 <hr/>
+
 ## How to install
 `cd ~` 
 or `cd c:/Users/<userName>/`
 
 Clone this repository. 
+
+`cd ./scrapeJIT`
+
+`npm install`
+
+
 
 Optional:
 
