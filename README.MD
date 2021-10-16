@@ -1,6 +1,7 @@
 ### scrapeJIT CLI
 - Add content from website to clipboard easily!
 - Create snippets easily accesible 
+- Integration recommended: [Wox](http://www.wox.one/) and [Powertoys run](https://github.com/microsoft/PowerToys/releases)
 <hr/>
 
 ## How to install
@@ -49,7 +50,7 @@ If you cant find the file restart wox or click Reindex in Wox settings.
 ##### Using Powertoys
 <img src="https://image.prntscr.com/image/aO-oNyPQS5eC1P99WTHrMQ.png">
 
-#### parameters
+#### Parameters
 ```
 --url <type> ("Specify url")
 --selector <type> ("Specify sele ctor")
