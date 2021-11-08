@@ -1,1 +1,0 @@
-clip < "C:\Users\jesus\Desktop\Programming\scrapeJIT\snippets/data/bigform.txt"

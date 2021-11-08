@@ -1,6 +1,5 @@
-const path = require('path');
 const dirs = {
-    mainDir: path.join(__dirname,'../../snippets'),
+    mainDir: process.env[(process.platform == 'win32') ? 'USERPROFILE' : 'HOME'].concat('/snippets'),
     secondaryDirs: ["clipper", "commands", "data"],
 };
 

@@ -15,6 +15,7 @@
     "clipboardy": "^2.3.0",
     "commander": "^8.2.0",
     "copy-to-clipboard": "^3.3.1",
-    "html-to-text": "^8.0.0"
+    "html-to-text": "^8.0.0",
+    "tesseract.js": "2.1"
   }
 }

@@ -1,7 +1,8 @@
 ### scrapeJIT CLI
 - Add content from website to clipboard easily!
-- Create snippets easily accesible 
+- Create snippets easily accesible.
 - Integration recommended: [Wox](http://www.wox.one/) and [Powertoys run](https://github.com/microsoft/PowerToys/releases)
+- Get text from image url.
 <hr/>
 
 ## How to install
@@ -11,7 +12,6 @@ or `cd c:/Users/<userName>/`
 Clone this repository. 
 
 `cd ./scrapeJIT`
-
 
 
 
@@ -58,5 +58,6 @@ If you cant find the file restart wox or click Reindex in Wox settings.
 --body <type> ("Specify body request")
 --snippetcreate <type> ("Specify name to snippet file")
 --snippetdata <type> ("Specify snippet content")
---snippetdelete <type> ("Specify snippet name to delete")
+--snippetdelete <type> ("Specify snippet name to delete") 
+--img <type> ("Specify imgUrl to get content")
 ```
